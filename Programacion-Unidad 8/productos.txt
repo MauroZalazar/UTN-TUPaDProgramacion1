@@ -1,0 +1,4 @@
+Lapicera,120.5,30
+Cuaderno,1500.0,15
+Goma,350.75,50
+Plasticola,200.0,50
